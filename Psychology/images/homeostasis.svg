@@ -28,7 +28,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0116647"
-     inkscape:cx="503.62536"
+     inkscape:cx="503.13113"
      inkscape:cy="440.36329"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
@@ -175,20 +175,20 @@
        y="0"><tspan
          x="212.65389"
          y="289.19534"
-         id="tspan3"><tspan
+         id="tspan4"><tspan
            style="text-align:center;text-anchor:middle"
            id="tspan1">Действия </tspan></tspan><tspan
          x="235.83751"
          y="322.52872"
-         id="tspan5"><tspan
+         id="tspan6"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan4">среды
+           id="tspan5">среды
 </tspan></tspan><tspan
-         x="240.41434"
+         x="204.83927"
          y="355.86209"
-         id="tspan7"><tspan
-           style="text-align:center;text-anchor:middle;fill:#ff00ff"
-           id="tspan6">Жара</tspan></tspan></text>
+         id="tspan10"><tspan
+           style="font-size:16.3625px;fill:#ff00ff"
+           id="tspan7">Крик начальника</tspan></tspan></text>
     <rect
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.248393"
        id="rect7"
@@ -205,15 +205,20 @@
        y="0"><tspan
          x="590.3338"
          y="286.40042"
-         id="tspan9"><tspan
+         id="tspan13"><tspan
            style="fill:#000000"
-           id="tspan8">Действия организма
+           id="tspan11">Действия организма
 </tspan></tspan><tspan
-         x="619.53957"
+         x="650.25575"
          y="319.73379"
-         id="tspan11"><tspan
+         id="tspan16"><tspan
            style="fill:#ff00ff"
-           id="tspan10">Выделение пота</tspan></tspan></text>
+           id="tspan14">Подавление </tspan></tspan><tspan
+         x="596.29735"
+         y="353.06717"
+         id="tspan18"><tspan
+           style="fill:#ff00ff"
+           id="tspan17">негативных эмоций</tspan></tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.208425"
        d="m 174.44941,48.002546 h 34.60082 l -0.26017,22.841222 10.92659,-9.462789"
@@ -251,13 +256,13 @@
        y="0"><tspan
          x="425.49072"
          y="122.66403"
-         id="tspan12">Точка равновесия
+         id="tspan23">Точка равновесия
 </tspan><tspan
-         x="425.4178"
+         x="400.35013"
          y="149.33066"
-         id="tspan14"><tspan
+         id="tspan26"><tspan
            style="fill:#ff00ff"
-           id="tspan13">Температура 36.6</tspan></tspan></text>
+           id="tspan24">Душевное равновесие</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.33409627,0,0,0.24025871,-35.276417,106.58416)"
@@ -267,16 +272,16 @@
        y="0"><tspan
          x="445.85054"
          y="120.31418"
-         id="tspan15">Восстановление </tspan><tspan
+         id="tspan27">Восстановление </tspan><tspan
          x="474.18128"
          y="143.66093"
-         id="tspan16">организма
+         id="tspan28">организма
 </tspan><tspan
-         x="463.25573"
+         x="413.16509"
          y="167.00768"
-         id="tspan18"><tspan
+         id="tspan30"><tspan
            style="fill:#ff00ff"
-           id="tspan17">Охлаждение</tspan></tspan></text>
+           id="tspan29">Постепное успокоение</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-1.5875,-3.1750001)"
@@ -284,13 +289,13 @@
        style="font-size:20px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000"><tspan
          x="703.80859"
          y="163"
-         id="tspan20"><tspan
+         id="tspan32"><tspan
            style="fill:#0000ff"
-           id="tspan19">Баланс </tspan></tspan><tspan
+           id="tspan31">Баланс </tspan></tspan><tspan
          x="694.58008"
          y="188"
-         id="tspan22"><tspan
+         id="tspan34"><tspan
            style="fill:#0000ff"
-           id="tspan21">нарушен</tspan></tspan></text>
+           id="tspan33">нарушен</tspan></tspan></text>
   </g>
 </svg>
