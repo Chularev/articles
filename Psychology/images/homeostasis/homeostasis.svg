@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="homeostasis.svg"
+   inkscape:export-filename="../2e46cbcf/test.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0116647"
+     inkscape:cx="369.19348"
+     inkscape:cy="214.00372"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="399.34181"
+       y="103.78933"
+       width="254.03674"
+       height="68.204418"
+       id="rect2" />
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <rect
+       x="445.93248"
+       y="513.03204"
+       width="97.853522"
+       height="43.335131"
+       id="rect12" />
+    <rect
+       x="581.5295"
+       y="262.8066"
+       width="308.93755"
+       height="120.22004"
+       id="rect8" />
+    <rect
+       x="174.73843"
+       y="265.60242"
+       width="209.68612"
+       height="106.24097"
+       id="rect6" />
+    <rect
+       x="150.974"
+       y="292.16266"
+       width="236.24636"
+       height="85.272355"
+       id="rect5" />
+    <rect
+       x="183.12588"
+       y="273.98986"
+       width="208.28821"
+       height="76.88491"
+       id="rect4" />
+    <rect
+       x="437.54503"
+       y="117.42423"
+       width="121.61795"
+       height="43.335131"
+       id="rect1" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="175.55339"
+       y1="298.50525"
+       x2="309.09262"
+       y2="298.50525"
+       gradientUnits="userSpaceOnUse" />
+    <rect
+       x="399.3418"
+       y="103.78933"
+       width="254.03674"
+       height="68.204414"
+       id="rect2-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.344417"
+       id="path1"
+       cx="136.72623"
+       cy="37.072197"
+       rx="37.839973"
+       ry="13.342459" />
+    <ellipse
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.344417"
+       id="path1-0"
+       cx="140.14114"
+       cy="142.36658"
+       rx="37.839973"
+       ry="13.342459" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1"
+       style="font-size:21.3333px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000" />
+    <g
+       id="g2"
+       transform="matrix(0.85780917,0,0,1.0002365,8.4499702,-0.01148703)">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+         d="M 107.26027,38.465754 H 59.547944 v 28.479451"
+         id="path2" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+         d="m 96.164383,30.328766 10.356167,8.136988 -11.095892,7.027397"
+         id="path3" />
+    </g>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="rect3"
+       width="66.205475"
+       height="34.397259"
+       x="40.684933"
+       y="66.205475" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect4);display:inline;fill:none;fill-rule:evenodd;stroke:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4"
+       style="text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect5);display:inline;fill:none;fill-rule:evenodd;stroke:#000000" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text5"
+       style="font-size:26.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect6);display:inline;fill:url(#linearGradient2);fill-rule:evenodd;stroke:#000000"
+       x="0"
+       y="0"><tspan
+         x="174.73828"
+         y="289.19534"
+         id="tspan3"><tspan
+           style="text-align:justify;fill:#000000"
+           id="tspan1">Действия </tspan></tspan><tspan
+         x="174.73828"
+         y="322.52872"
+         id="tspan5"><tspan
+           style="text-align:justify;fill:#000000"
+           id="tspan4">среды</tspan></tspan></text>
+    <rect
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="rect7"
+       width="93.205475"
+       height="37.356167"
+       x="152.0137"
+       y="65.095886" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text7"
+       style="font-size:26.6667px;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:none;fill-rule:evenodd;stroke:#000000"><tspan
+         x="581.5293"
+         y="286.40042"
+         id="tspan7"><tspan
+           style="fill:#000000"
+           id="tspan6">Действия организма</tspan></tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.22201"
+       d="m 174.44657,38.821661 h 34.59768 l -0.26013,25.918186 10.92559,-10.737532"
+       id="path8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.357482"
+       d="M 209.30605,65.395649 192.72687,54.038374"
+       id="path9" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 194.17808,101.34246 v 44.0137"
+       id="path10" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.175919"
+       d="m 193.96481,145.21399 -16.17194,-0.37395 2.91095,-7.47918"
+       id="path12" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 178.19927,144.80137 3.32877,5.73287"
+       id="path13" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.248856"
+       d="M 102.68775,141.29294 H 69.485453 l -0.163557,-40.88037 -8.66858,7.39916"
+       id="path14" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 70.458903,100.60274 6.102739,5.91781"
+       id="path15" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,5.2306528,5.4921855)"
+       id="text2"
+       style="font-size:21.3333px;text-align:justify;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000"><tspan
+         x="399.3418"
+         y="122.66403"
+         id="tspan8">Точка равновесия</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,11.700077,106.72983)"
+       id="text2-1"
+       style="font-size:21.3333px;text-align:justify;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2-2);display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000"><tspan
+         x="399.3418"
+         y="122.66403"
+         id="tspan9">Восстановление </tspan><tspan
+         x="399.3418"
+         y="149.33066"
+         id="tspan10">организма</tspan></text>
+  </g>
+</svg>
