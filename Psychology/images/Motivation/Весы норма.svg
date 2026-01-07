@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   sodipodi:docname="Весы норма.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.0233293"
+     inkscape:cx="17.54534"
+     inkscape:cy="271.58209"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="66"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="413.78061"
+       y="41.937224"
+       width="158.6625"
+       height="40.539316"
+       id="rect3" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       id="path1"
+       cx="129.04927"
+       cy="43.244877"
+       rx="22.191782"
+       ry="15.534246" />
+    <path
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="M 129.04883,49.162681 V 27.525695 l -6.28767,7.027397"
+       id="path2" />
+    <path
+       style="fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 129.04883,27.525695 5.73288,5.178082"
+       id="path3" />
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3"
+       style="fill:#ff00ff;text-orientation:auto;stroke:#000000;fill-rule:evenodd;font-size:18.66666667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.9389px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       x="129.09685"
+       y="22.12044"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.264583"
+         x="129.09685"
+         y="22.12044">Норма</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 150.71918,44.753424 h 47.34246 l -0.36986,35.876713 -21.08219,24.226023 42.34931,-0.92465 -21.82191,-23.671236"
+       id="path4" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 175.74993,105.39766 c 4.78778,6.22802 12.30345,10.27867 20.13802,10.8536 6.10715,0.44816 12.42176,-1.217 17.26115,-4.96912 2.46093,-1.90803 4.52274,-4.32841 6.01525,-7.06138"
+       id="path6"
+       inkscape:path-effect="#path-effect6"
+       inkscape:original-d="m 175.74993,105.39766 c 6.88703,3.44351 13.51252,7.14855 20.13802,10.8536 6.62549,3.70505 11.50743,-3.35634 17.26115,-4.96912 5.75372,-1.61279 4.01017,-4.664 6.01525,-7.06138" />
+  </g>
+</svg>
