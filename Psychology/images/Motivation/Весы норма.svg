@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    sodipodi:docname="Весы норма.svg"
+   inkscape:export-filename="../904322ad/Весы норма.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +26,9 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0233293"
-     inkscape:cx="17.54534"
-     inkscape:cy="271.58209"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="326.8601"
+     inkscape:cy="237.76465"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="66"
@@ -34,6 +37,36 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs1">
+    <rect
+       x="576.99912"
+       y="111.01576"
+       width="143.54267"
+       height="38.183765"
+       id="rect10" />
+    <rect
+       x="655.48799"
+       y="19.79899"
+       width="167.58431"
+       height="59.39697"
+       id="rect9" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1" />
+    <linearGradient
+       id="swatch7"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect6"
@@ -45,6 +78,17 @@
        width="158.6625"
        height="40.539316"
        id="rect3" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6-1"
+       is_visible="true"
+       lpeversion="1" />
+    <rect
+       x="576.99915"
+       y="111.01576"
+       width="143.54266"
+       height="38.183765"
+       id="rect10-7" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -69,7 +113,7 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text3"
-       style="fill:#ff00ff;text-orientation:auto;stroke:#000000;fill-rule:evenodd;font-size:18.66666667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3)" />
+       style="font-size:18.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect3);display:inline;fill:#ff00ff;fill-rule:evenodd;stroke:#000000" />
     <text
        xml:space="preserve"
        style="font-size:4.9389px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#ff00ff;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
@@ -80,10 +124,10 @@
          id="tspan4"
          style="stroke-width:0.264583"
          x="129.09685"
-         y="22.12044">Норма</tspan></text>
+         y="22.12044">Идиал</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
-       d="m 150.71918,44.753424 h 47.34246 l -0.36986,35.876713 -21.08219,24.226023 42.34931,-0.92465 -21.82191,-23.671236"
+       d="m 150.71918,44.753424 h 47.34246 l -0.36986,35.876721 -21.08219,24.226015 42.34931,-0.92465 -21.82191,-23.671228"
        id="path4" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
@@ -91,5 +135,77 @@
        id="path6"
        inkscape:path-effect="#path-effect6"
        inkscape:original-d="m 175.74993,105.39766 c 6.88703,3.44351 13.51252,7.14855 20.13802,10.8536 6.62549,3.70505 11.50743,-3.35634 17.26115,-4.96912 5.75372,-1.61279 4.01017,-4.664 6.01525,-7.06138" />
+    <circle
+       id="path5"
+       style="fill:#000000;stroke:#000000;stroke-width:0.264583"
+       cx="126.54723"
+       cy="8.119606"
+       r="0.049840059" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="M 106.92572,45.210276 H 59.583421 l 0.36986,35.876562 21.082137,24.225922 -42.349257,-0.92465 21.82191,-23.671129"
+       id="path4-0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583"
+       d="m 175.74993,105.39766 c 4.78778,6.22802 12.30345,10.27867 20.13802,10.8536 6.10715,0.44816 12.42176,-1.217 17.26115,-4.96912 2.46093,-1.90803 4.52274,-4.32841 6.01525,-7.06138"
+       id="path6-9"
+       inkscape:path-effect="#path-effect6-1"
+       inkscape:original-d="m 175.74993,105.39766 c 6.88703,3.44351 13.51252,7.14855 20.13802,10.8536 6.62549,3.70505 11.50743,-3.35634 17.26115,-4.96912 5.75372,-1.61279 4.01017,-4.664 6.01525,-7.06138"
+       transform="matrix(-1,0,0,1,257.6449,0.45686176)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#386f98;stroke-width:1.365;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.92117,40.878873 c 1.38161,-3.848851 4.09904,-7.203705 7.57709,-9.354433 2.69145,-1.664314 5.77553,-2.602314 8.88672,-3.180506 1.88194,-0.349744 3.79209,-0.574429 5.7062,-0.561266 1.85124,0.01273 3.69459,0.247659 5.51912,0.561266 3.29581,0.566496 6.60718,1.416087 9.44797,3.180506 2.25495,1.400552 4.16584,3.369669 5.42558,5.706205 0.46523,0.862899 0.84201,1.773454 1.12253,2.712786"
+       id="path7"
+       inkscape:path-effect="#path-effect7"
+       inkscape:original-d="m 106.92117,40.878873 c 2.33861,-2.993419 5.0514,-6.173925 7.57709,-9.354433 2.5257,-3.180506 5.8933,-2.151521 8.88672,-3.180506 2.99341,-1.028989 3.80413,-0.342998 5.7062,-0.561266 1.90207,-0.218271 3.71059,0.374176 5.51912,0.561266 1.80852,0.187087 6.26746,2.120336 9.44797,3.180506 3.18051,1.060169 3.58587,3.804136 5.42558,5.706205 1.8397,1.902068 0.74835,1.808522 1.12253,2.712786"
+       transform="translate(0,-0.52916663)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#386f98;stroke-width:0.25;stroke-dasharray:none"
+       d="m 174.36664,12.909118 -32.74052,15.715449 1.30962,-8.606079"
+       id="path8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#386f98;stroke-width:0.25;stroke-dasharray:none"
+       d="m 142.18739,28.624567 6.73519,1.496708"
+       id="path9" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-15.345837,2.1166667)"
+       id="text9"
+       style="font-size:18.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect9);display:inline;fill:none;fill-rule:evenodd;stroke:#386f98;stroke-width:0.944882;stroke-dasharray:none"><tspan
+         x="708.78282"
+         y="36.314483"
+         id="tspan5"><tspan
+           style="fill:#1a1a1a"
+           id="tspan3">норма</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10"
+       style="font-size:16px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:#0000ff;fill-rule:evenodd;stroke:#386f98;stroke-width:0.944882"><tspan
+         x="627.87988"
+         y="125.17188"
+         id="tspan6">Пора </tspan><tspan
+         x="595.45801"
+         y="145.17188"
+         id="tspan7">действовать</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-82.76738,0.78437643)"
+       id="text10-5"
+       style="font-size:16px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10-7);display:inline;fill:#0000ff;fill-rule:evenodd;stroke:#386f98;stroke-width:0.944882"><tspan
+         x="627.87988"
+         y="125.17188"
+         id="tspan8">Пора </tspan><tspan
+         x="595.45801"
+         y="145.17188"
+         id="tspan9">действовать</tspan></text>
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#386f98;stroke-width:0.25"
+       d="M 107.3568,40.472595 H 72.838934"
+       id="path10" />
+    <path
+       style="fill:#0000ff;fill-rule:evenodd;stroke:#386f98;stroke-width:0.25"
+       d="m 150.60637,39.475708 h 41.21654"
+       id="path11" />
   </g>
 </svg>
