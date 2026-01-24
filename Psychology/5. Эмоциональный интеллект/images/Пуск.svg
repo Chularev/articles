@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
-   sodipodi:docname="Аллостаз.svg"
+   sodipodi:docname="Пуск.svg"
    inkscape:export-filename="Пуск.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -27,8 +27,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0116647"
-     inkscape:cx="284.6793"
-     inkscape:cy="524.38323"
+     inkscape:cx="347.94137"
+     inkscape:cy="287.15048"
      inkscape:window-width="1854"
      inkscape:window-height="1011"
      inkscape:window-x="66"
@@ -540,7 +540,7 @@
          x="141.84018"
          y="78.85807">Норма</tspan></text><path
        style="fill:#17489f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.937274;stroke-opacity:1"
-       d="M 94.204075,23.630643 82.354039,36.677613 71.646178,24.5776 Z"
+       d="M 162.46697,23.630643 150.61687,36.677613 139.90895,24.5776 Z"
        id="path1" /><text
        xml:space="preserve"
        style="font-size:13.2262px;text-align:center;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#682e98;stroke-width:0.937274;stroke-opacity:1"
@@ -557,9 +557,9 @@
        transform="matrix(2.2983792,0,0,0.84821206,-447.20249,-9.7915523)"
        id="text10"
        style="font-size:13.9354px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect10);display:inline;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#682e98;stroke-width:0.944882;stroke-opacity:1"><tspan
-         x="222.10346"
+         x="221.66457"
          y="36.794407"
-         id="tspan10">Равновесие</tspan></text><rect
+         id="tspan10">Параметр 0</tspan></text><rect
        style="fill:none;fill-rule:evenodd;stroke:#cfff28;stroke-width:0.415002;stroke-opacity:1"
        id="rect1"
        width="229.84506"
@@ -847,14 +847,14 @@
        xml:space="preserve"
        transform="matrix(0.26374906,0,0,0.26469319,-6.2983556,83.04024)"
        id="text8"
-       style="font-size:42.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:none;fill-rule:evenodd;stroke:#000088;stroke-width:0.944882;stroke-opacity:1;shape-inside:url(#rect8)"><tspan
+       style="font-size:42.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect8);display:inline;fill:none;fill-rule:evenodd;stroke:#000088;stroke-width:0.944882;stroke-opacity:1"><tspan
          x="27.265565"
          y="102.87112"
          id="tspan25">Сигнал</tspan></text><text
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text12"
-       style="font-size:42.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;fill:none;fill-rule:evenodd;stroke:#31c769;stroke-width:0.944882;stroke-opacity:0.443947;shape-inside:url(#rect12)"><tspan
+       style="font-size:42.6667px;text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect12);display:inline;fill:none;fill-rule:evenodd;stroke:#31c769;stroke-width:0.944882;stroke-opacity:0.443947"><tspan
          x="699.5293"
          y="651.58987"
          id="tspan27"><tspan
